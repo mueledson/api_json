@@ -1,0 +1,22 @@
+[
+    {
+        "nome": "Edson",
+        "idade": 13,
+        "trabalha": true,
+        "detalhes_profisao": {
+            "Profissão": "Programador",
+            "Empresa": "Seb Soluções Tecnológicas"
+        },
+        "hobbies": ["Jogar", "Estudar", "Jogar"]
+    },
+    {
+        "nome": "Rodrigo",
+        "idade": 36,
+        "trabalha": true,
+        "detalhes_profisao": {
+            "Profissão": "Tecnico de Informática, Programador e etc",
+            "Empresa": "Seb Soluções Tecnológicas"
+        },
+        "hobbies": ["Trabalhar", "Estudar"]
+    }
+]
